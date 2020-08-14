@@ -1,0 +1,6 @@
+C:\Dev\Practice\CodeWarsScribble\bin\Debug\CodeWarsScribble.exe.config
+C:\Dev\Practice\CodeWarsScribble\bin\Debug\CodeWarsScribble.exe
+C:\Dev\Practice\CodeWarsScribble\bin\Debug\CodeWarsScribble.pdb
+C:\Dev\Practice\CodeWarsScribble\obj\Debug\CodeWarsScribble.csprojAssemblyReference.cache
+C:\Dev\Practice\CodeWarsScribble\obj\Debug\CodeWarsScribble.exe
+C:\Dev\Practice\CodeWarsScribble\obj\Debug\CodeWarsScribble.pdb
